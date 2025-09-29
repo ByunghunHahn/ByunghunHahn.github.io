@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "Byunghun Hahn"
 layout: single
 author_profile: true
 permalink: /
