@@ -15,5 +15,5 @@ My research interests include labor economics, experimental economics, law & eco
 
 
 <p><span style="font-size:13pt;"> 
-For more information, please see my <a href="https://ByunghunHahn.github.io/cv/CV_BH.pdf">CV</a>. You can also contact me at <a href="mailto:bhhahn@snu.ac.kr">bhhahn[at]snu[dot]ac[dot]kr.
+For more information, please see my <a href="https://ByunghunHahn.github.io/cv/CV_BH.pdf">CV</a>. You can also contact me at <a href="mailto:bhhahn@snu.ac.kr">bhhahn[at]snu[dot]ac[dot]kr</a>.
 </span></p>
