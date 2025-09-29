@@ -16,5 +16,5 @@ My current research themes include AI, Crime and Group decision making.
 
 
 <p><span style="font-size:13pt;"> 
-For more information, please see my <a href="https://ByunghunHahn.github.io/cv/CV_BH.pdf">CV</a>. You can also contact me at <a href="mailto:bhhahn@snu.ac.kr">bhhahn[at]snu[dot]ac[dot]kr</a>.
+For more information, please see my <a href="https://ByunghunHahn.github.io/cv/CV_BH.pdf">CV</a>. You can also contact me at <a href="mailto:bhhahn@snu.ac.kr">bhhahn@snu.ac.kr</a>.
 </span></p>
