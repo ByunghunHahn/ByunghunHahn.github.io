@@ -20,7 +20,7 @@ classes: wide
 </div>
 
 
-<span style="font-size:12pt;"> <strong>Are Young Criminals Rational?<strong></span><br>
+<span style="font-size:12pt;"> <strong>Are Young Criminals Rational?</strong></span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_mexmayors')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Are_Young_Criminals_Rational.pdf)</span> 
 
 <div id="abs_mexmayors" style="display: none;"> 
