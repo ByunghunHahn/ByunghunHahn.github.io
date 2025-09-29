@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seung-hun Lee"
+title                    : "Byunghun Hahn"
 title_separator          : "|"
 subtitle                 : #""
-name                     : "Seung-hun Lee"
-description              : #"Assistant Professor, Taipei School of Economics"
+name                     : "Byunghun Hahn"
+description              : #"Master's Student, Department of Economics, Seoul National University"
 url                      : "https://seunghunlee918.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "seunghunlee918/seunghunlee918.github.io"
+repository               : "ByunghunHahn/Byunghun Hahn.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/images/CU_Logo.png"
-masthead_title           : "Seung-hun Lee (이승헌)"
+masthead_title           : "Byunghun Hahn (한병헌)"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -94,26 +94,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seung-hun Lee"
-  avatar           : "/images/DCS_1017_adjusted.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor<br>Taipei School of Economics<br>National Tsing Hua University"
+  name             : "Byunghun Hahn"
+  avatar           : "/images/BH.jpg"
+  bio              : "Master's Student<br>Department of Economics<br>Seoul National University"
   email            :
   links:
-    - label: "NTHU mail"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seunghunlee@mx.nthu.edu.tw"
-    - label: "Gmail"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seunghunlee0918@gmail.com"
-    - label: "@Seunghunlee0918"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Seunghunlee0918"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/seunghunlee918"
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0001-5940-0971"
+      url: "mailto:bhhahn@snu.ac.kr"
 
 # Site Footer
 footer:
