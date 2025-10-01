@@ -12,7 +12,7 @@ classes: wide
 **Working Papers**
 
 <span style="font-size:12pt;"> **Better or Worse? Biased Decisions from Human-Machine Collaboration**</span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_better')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Better_or_Worse.pdf)</span> 
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_better')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Better_or_Worse_.pdf)</span> 
 
 <div id="abs_better" style="display: none;">
     <p style="font-size:11pt;"> Korea Baseball Organization (KBO) introduced the replay review system to improve the accuracy and fairness of the umpire decisions in 2014. However, we show that the winning probability of the home team has significantly increased after the implementation, which implies that the introduction of the replay review system deteriorated the fairness of the umpire’s decisions. Our interpretation is that it is because of the imperfect system design. Because the replay review chances are limited to two times, the umpires ended up having incentives to give favorable decisions for the home team.
