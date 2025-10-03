@@ -46,7 +46,7 @@ classes: wide
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_evaluating')">Abstract</a> |  [Paper (draft coming soon)]</span> 
 
 <div id="abs_evaluating" style="display: none;">
-    <p style="font-size:11pt;"> In Korea, there are two types of university entrance systems: Jeongsi, based on a single Korean SAT score, and Susi, based on three years of high school grades. Starting from 2022, Korea increased the proportion of Jeongsi from 23\% to 40\%. We examine the impact of this policy by analyzing Seoul National University acceptance rates from 2018 to 2023 across different types of high schools. The results show that high schools in wealthy areas, the three Gangnam districts, saw a significant increase in acceptance rates. In contrast, specialized high schools did not experience a notable increase, and non-metropolitan high schools saw a decline.
+    <p style="font-size:11pt;"> In Korea, there are two types of university entrance systems: Jeongsi, based on a single Korean SAT score, and Susi, based on three years of high school grades. Starting from 2022, Korea increased the proportion of Jeongsi from 23% to 40%. We examine the impact of this policy by analyzing Seoul National University acceptance rates from 2018 to 2023 across different types of high schools. The results show that high schools in wealthy areas, the three Gangnam districts, saw a significant increase in acceptance rates. In contrast, specialized high schools did not experience a notable increase, and non-metropolitan high schools saw a decline.
   </p>  
 </div>
 
