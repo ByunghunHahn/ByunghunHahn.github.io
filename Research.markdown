@@ -33,7 +33,7 @@ classes: wide
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_rationality')">Abstract</a> |  [Paper (draft coming soon)]</span> 
 
 <div id="abs_rationality" style="display: none;">
-    <p style="font-size:11pt;"> Coming Soon
+    <p style="font-size:11pt;"> We study how individual rationality affects group decision making using large-scale experiments with randomly assigned pairs. We develop a nonparametric revealed preference measure of bargaining power that applies to all subjects without requiring rationality or parametric utility functions. More rational individuals exert substantially greater influence on group decisions. Group decision quality increases with the rationality of the more rational member and decreases with the gap between members. The advantage of rational members is larger when communication is easier. Results establish causal effects of rationality on both bargaining power and collective choice quality.
   </p>  
 </div>
 
