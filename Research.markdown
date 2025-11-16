@@ -11,7 +11,7 @@ classes: wide
 
 **Working Papers**
 
-<span style="font-size:12pt;"> **Better or Worse? Biased Decisions from Human-Machine Collaboration**</span><br>
+<span style="font-size:12pt;"> **Safe or Out? Biased Decisions from Human-Machine Collaboration**</span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_better')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Better_or_Worse.pdf)</span> 
 
 <div id="abs_better" style="display: none;">
@@ -20,7 +20,7 @@ classes: wide
 </div>
 
 
-<span style="font-size:12pt;"> <strong>Are Young Criminals Rational?</strong></span><br>
+<span style="font-size:12pt;"> <strong>Early Graduation from Juvenile Crime</strong></span><br>
 <span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_are')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Are_Young_Criminals_Rational.pdf)</span> 
 
 <div id="abs_are" style="display: none;"> 
