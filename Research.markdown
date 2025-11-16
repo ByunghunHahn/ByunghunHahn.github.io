@@ -12,7 +12,7 @@ classes: wide
 **Working Papers**
 
 <span style="font-size:12pt;"> **Safe or Out? Biased Decisions from Human-Machine Collaboration**</span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_better')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Better_or_Worse.pdf)</span> 
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_better')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Safe_or_Out.pdf)</span> 
 
 <div id="abs_better" style="display: none;">
     <p style="font-size:11pt;"> Korea Baseball Organization (KBO) introduced the replay review system to improve the accuracy and fairness of the umpire decisions in 2014. However, we show that the winning probability of the home team has significantly increased after the implementation, which implies that the introduction of the replay review system deteriorated the fairness of the umpire’s decisions. Our interpretation is that it is because of the imperfect system design. Because the replay review chances are limited to two times, the umpires ended up having incentives to give favorable decisions for the home team.
@@ -21,7 +21,7 @@ classes: wide
 
 
 <span style="font-size:12pt;"> <strong>Early Graduation from Juvenile Crime</strong></span><br>
-<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_are')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Are_Young_Criminals_Rational.pdf)</span> 
+<span style="font-size:11pt;">   <a href="#/" onclick="visib('abs_are')">Abstract</a> |  [Paper](https://ByunghunHahn.github.io/research/Early_Graduation.pdf)</span> 
 
 <div id="abs_are" style="display: none;"> 
     <p style="font-size:11pt;">  We develop a model in which individuals accumulate two types of human capital: legal and crime-specific, both of which are accumulated through learning by doing. Juveniles in their final year before losing juvenile status anticipate higher future costs of crime, giving them an incentive to shift effort toward legal work. Our model predicts that individuals on the verge of this transition are more likely to desist from crime even before reaching the age of criminal majority. Using FBI arrestee data, we empirically validate this. Exploiting policy changes in four states that raised the age of criminal majority from 17 to 18, we find causal evidence that juveniles in their final year of being legally treated as juveniles commit fewer crimes than other age groups.
